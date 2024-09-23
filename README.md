@@ -1,1 +1,1 @@
-"# micrograd" 
+"viz Andrej Karpathy micrograd" 
